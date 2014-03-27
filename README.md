@@ -4,6 +4,10 @@
 
 A tiny javascript template engine without any dependence.
 
+### oneline
+
+planning...
+
 ## Todo list for 2014
 
 * Turn my [blog](http://joy-studio.com) from wordpress to nodejs.
@@ -57,3 +61,5 @@ The missing Markdown editor for web developers
 ### [TextExpander](https://smilesoftware.com/TextExpander/index.html)
 
 Type more with less effort! TextExpander saves your fingers and your keyboard, expanding custom keyboard shortcuts into frequently-used text
+
+# FIGHTING! NEVER STOP!
