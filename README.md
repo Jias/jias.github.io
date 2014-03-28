@@ -10,11 +10,11 @@ A tiny logic-less, super-easy javascript template engine without any dependence.
 
 * [关联博文：打造自己的javascript模板引擎eoraptorjs](http://www.joy-studio.com/javascript/my-eoraptorjs-template-engine-in-javascript.html)
 
-### Xit(coming soon)
+### Unnamed Project(coming soon)
 
 一个用js生成css keyframes动画的小工具。简化css动画的书写难度。
 
-### [oneline](http://)
+### [suchas](http://jias.github.io/suchas/)
 
 一行代码说明一个javascript的基础知识点。
 
@@ -60,9 +60,9 @@ A suit of pretty form elements.
 
 ## I'm studying on
 
-### [git-book](http://git-scm.com/book/zh)
-
-### [nodejs](http://nodejs.org/)
+* [git-book](http://git-scm.com/book/zh)
+* [nodejs](http://nodejs.org/)
+* [angularjs](http://angularjs.org/)
 
 ## Sites I like
 
