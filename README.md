@@ -1,20 +1,68 @@
-## My projects
+# I'm gnosaij (jia song)
+
+a front-end developer in Baidu, a designer for myself and friends.
+
+## My github projects
 
 ### [eoraptor.js](http://jias.github.io/eoraptor.js/)
 
-A tiny javascript template engine without any dependence.
+A tiny logic-less, super-easy javascript template engine without any dependence.
 
-### oneline
+* [关联博文：打造自己的javascript模板引擎eoraptorjs](http://www.joy-studio.com/javascript/my-eoraptorjs-template-engine-in-javascript.html)
 
-planning...
+### Xit(coming soon)
+
+一个用js生成css keyframes动画的小工具。简化css动画的书写难度。
+
+### [oneline](http://)
+
+一行代码说明一个javascript的基础知识点。
+
+
+## My jQuery plugins
+
+**NOTE: **下面的组件都是用于ContentMaster项目的，代码大多是2011年之前写的，现已不在更新。必要时可能会重构后迁移到github。
+
+### [dooPretty](http://joy-studio.com/demo/temp/dooPretty/doc/doopretty_doc.html)
+
+A suit of pretty form elements.   
+整套的表单美化组件。
+
+* [文档](http://joy-studio.com/demo/temp/dooPretty/doc/doopretty_doc.html)
+* [中文版Demo](http://joy-studio.com/demo/temp/dooPretty/demo-all-UI/demo.html)
+* [英文版Demo](http://joy-studio.com/demo/temp/dooPretty/demo-all-UI2/demo.html)
+* [中国地区联动插件](http://joy-studio.com/demo/temp/dooPretty/demo-location/demo_associated_select.html)
+
+### [dooDialog](http://joy-studio.com/demo/temp/dooDialog/doc-and-demo/doc-and-demo.html)
+
+对话框组件。
+
+### [dooCheck](http://joy-studio.com/demo/temp/dooCheck/doc/doc.html)
+
+表单验证组件。
+
+### [dooTip](http://joy-studio.com/demo/temp/dooTip/doc-and-demo/doc-and-demo.html)
+
+漂亮的小气泡提示组件。
+
+### [dooAutosave](http://joy-studio.com/demo/temp/dooAutosave/doc-and-demo/doc-and-demo.html)
+
+表单自动保存组件。
+
 
 ## Todo list for 2014
 
-* Turn my [blog](http://joy-studio.com) from wordpress to nodejs.
+* zTurn my [blog](http://joy-studio.com) from wordpress to nodejs.
 * Learn and master nodejs.
 * Rise up my weight by 10Kg.
-* Finish the last projects in my mind.
-* Share, sharing, shared, never stop.
+* Self-sum-up and finish the projects in my mind.
+* A project based on illustrator + svg + javascript.
+
+## I'm studying on
+
+### [git-book](http://git-scm.com/book/zh)
+
+### [nodejs](http://nodejs.org/)
 
 ## Sites I like
 
@@ -47,6 +95,12 @@ The JavaScript Task Runner.
 ### [gulpjs](http://gulpjs.com/)
 
 The streaming build system. gulp's use of streams and code-over-configuration makes for a simpler and more intuitive build.
+
+### [mocha](http://visionmedia.github.io/mocha/)
+
+Mocha is a feature-rich JavaScript test framework running on node.js and the browser, making asynchronous testing simple and fun. Mocha tests run serially, allowing for flexible and accurate reporting, while mapping uncaught exceptions to the correct test cases.
+
+* [expect.js](https://github.com/LearnBoost/expect.js) expect style assertions
 
 ### [JSHint](http://jshint.com/)
 
