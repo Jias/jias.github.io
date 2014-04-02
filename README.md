@@ -10,6 +10,10 @@ A tiny logic-less, super-easy javascript template engine without any dependence.
 
 * [关联博文：打造自己的javascript模板引擎eoraptorjs](http://www.joy-studio.com/javascript/my-eoraptorjs-template-engine-in-javascript.html)
 
+### [oop.js](http://jias.github.io/oop.js/)
+
+oop in javascript. 用在百度的轻应用和SiteApp项目的移动端组件库的类工具。
+
 ### Unnamed Project(coming soon)
 
 一个用js生成css keyframes动画的小工具。简化css动画的书写难度。
@@ -52,7 +56,7 @@ A suit of pretty form elements.
 
 ## Todo list for 2014
 
-* zTurn my [blog](http://joy-studio.com) from wordpress to nodejs.
+* Turn my [blog](http://joy-studio.com) from wordpress to nodejs.
 * Learn and master nodejs.
 * Rise up my weight by 10Kg.
 * Self-sum-up and finish the projects in my mind.
@@ -78,9 +82,22 @@ A design magazine covering web design and development, graphic design, advertisi
 
 The awards for design, creativity and innovation on the internet.
 
+### [envatomarket](http://envatomarketplaces.com/)
+
+Everything you need for your next creative project.
+Over 4.5 million digital products created by a global community of designers, developers, photographers, illustrators & producers.
+
+### [codrops](http://tympanus.net/codrops/)
+
+这个网站最大的特点是，每篇教程都有精美的Demo。
+
+### [speakerdeck](https://speakerdeck.com/)
+
+Speaker Deck is the best way to share presentations online. Simply upload your slides as a PDF, and we’ll turn them into a beautiful online experience. View them on SpeakerDeck.com, or share them on any website with an embed code.
+
 ## Teams I like
 
-coming soon ...
+#### [adobe webplatform](http://blogs.adobe.com/webplatform/)
 
 ## Developer tools I like
 
@@ -115,5 +132,14 @@ The missing Markdown editor for web developers
 ### [TextExpander](https://smilesoftware.com/TextExpander/index.html)
 
 Type more with less effort! TextExpander saves your fingers and your keyboard, expanding custom keyboard shortcuts into frequently-used text
+
+
+## Other resource
+
+[moot.it](https://moot.it/) 
+
+Forums and commenting re-imagined  
+Embeddable · Styleable · Realtime · Free
+
 
 # FIGHTING! NEVER STOP!
