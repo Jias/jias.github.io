@@ -123,11 +123,21 @@ Mocha is a feature-rich JavaScript test framework running on node.js and the bro
 
 JSHint is a community-driven tool to detect errors and potential problems in JavaScript code and to enforce your team's coding conventions. It is very flexible so you can easily adjust it to your particular coding guidelines and the environment you expect your code to execute in. JSHint is open source and will always stay this way.
 
+### [markdown-editor](http://jbt.github.io/markdown-editor)
+
+ * Ctrl/Cmd + S to save the file
+ * Drag and drop a file into here to load it
+ * File contents are saved in the URL so you can share files
+
 ## Efficient tools I like
 
 ### [Mou](http://mouapp.com/)
 
 The missing Markdown editor for web developers
+
+### [haroopad](http://pad.haroopress.com/)
+
+Github Flavored Markdown editor
 
 ### [TextExpander](https://smilesoftware.com/TextExpander/index.html)
 
