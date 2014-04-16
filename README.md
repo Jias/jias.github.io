@@ -99,6 +99,8 @@ Speaker Deck is the best way to share presentations online. Simply upload your s
 
 #### [adobe webplatform](http://blogs.adobe.com/webplatform/)
 
+#### [strongloop](http://strongloop.com/)
+
 ## Developer tools I like
 
 ### [sublime 3](https://sublime.wbond.net/installation#st3)
@@ -128,6 +130,8 @@ JSHint is a community-driven tool to detect errors and potential problems in Jav
  * Ctrl/Cmd + S to save the file
  * Drag and drop a file into here to load it
  * File contents are saved in the URL so you can share files
+
+### [chrome debugger](https://developers.google.com/chrome-developer-tools/docs/javascript-debugging?csw=1)
 
 ## Efficient tools I like
 
