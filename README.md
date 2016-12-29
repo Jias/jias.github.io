@@ -115,7 +115,7 @@ The JavaScript Task Runner.
 
 The streaming build system. gulp's use of streams and code-over-configuration makes for a simpler and more intuitive build.
 
-### [mocha](http://visionmedia.github.io/mocha/)
+### [mocha](http://mochajs.org/)
 
 Mocha is a feature-rich JavaScript test framework running on node.js and the browser, making asynchronous testing simple and fun. Mocha tests run serially, allowing for flexible and accurate reporting, while mapping uncaught exceptions to the correct test cases.
 
